@@ -1,0 +1,76 @@
+body {
+  background-color: rgb(45, 45, 45);
+  touch-action: none;
+  overflow-x: hidden;
+}
+
+.name {
+  float: left;
+  margin-left: 20px; 
+  font-family: Geologica; 
+  color: white; 
+  font-size: 16px; 
+  margin-top: 7px;
+}
+
+.info {
+  float: left;
+  margin-left: -130px;
+  font-family: Geologica; 
+  font-size: 13px;
+  color: rgb(138, 138, 138);
+}
+
+.open {
+  background-color: rgb(30, 30, 30);
+  border: none;
+  border-radius: 15px;
+  width: 90px;
+  height: 25px;
+  font-family: Geologica;
+  color: rgb(37, 138, 227);
+  margin-left: 5px;
+  float: right;
+}
+
+a {
+  text-decoration: none;
+}
+
+.search {
+  background-color: rgb(30, 30, 30);
+  border: none;
+  width: 80%;
+  height: 30px;
+  border-radius: 10px;
+  color: white;
+}
+
+.points {
+  background-color: rgb(30, 30, 30);
+  width: 30vw;
+  height: 75px;
+  border-radius: 15px;
+  font-family: Geologica;
+  color: white;
+}
+
+.rating {
+  background-color: rgb(30, 30, 30);
+  width: 30vw;
+  height: 75px;
+  border-radius: 15px;
+  margin-left: 10px;
+  font-family: Geologica;
+  color: white;
+}
+
+.reward {
+  background-color: rgb(30, 30, 30);
+  width: 30vw;
+  height: 75px;
+  border-radius: 15px;
+  margin-left: 10px;
+  font-family: Geologica;
+  color: white;
+}
