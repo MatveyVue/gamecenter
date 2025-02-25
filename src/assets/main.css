@@ -26,7 +26,8 @@ body {
   border: none;
   border-radius: 15px;
   width: 90px;
-  height: 25px;
+  height: 30px;
+  font-size: 18px;
   font-family: Geologica;
   color: rgb(37, 138, 227);
   margin-left: 5px;
